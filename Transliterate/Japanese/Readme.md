@@ -1,4 +1,4 @@
-USAGE:
+# USAGE:
 
 In order for readability, consider tokenizing (segmenting) the text first and then applying the transliterator.
 
