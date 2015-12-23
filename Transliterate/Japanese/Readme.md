@@ -7,7 +7,8 @@ To tokenize, use the following methods:
     from tinysegmenter import TinySegmenter
     ts = TinySegmenter()
     sent = '<insert text here>'
-    print(' '.join(ts.tokenize(sent)))
+    print('|'.join(ts.tokenize(sent)))
+Use '|' to identify word boundaries as it makes it more readable and spaces between words are automatically added.
 
 To transliterate, use the following methods:
 
