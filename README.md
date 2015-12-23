@@ -1,2 +1,7 @@
 # LangTransliterate
-Romanizes text written in Chinese, Japanese, Korean, Hindi, Telugu, Tamil, Kannada, Malayalam, Bengali, Gujarati and Greek.
+Romanizes text written in several languages, including CJK, Indian languages, Arabic and Greek.
+
+# Installation
+    pip install LangTransliterate
+
+
